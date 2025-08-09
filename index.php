@@ -1,16 +1,9 @@
-<!doctype html>
-<html>
-    <head>
-        <link
-            rel = "stylesheet"
-            href = "style.css"
-            >
-        <title> Chess </title>
-    </head>
+<?php include "head.php" ?>
 
+<!doctype html>
+
+<html>
     <body>
-        <div>
-            Part
-        </div>
+        <div class = "board" id = "board"><div>
     </body>
 </html>

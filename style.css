@@ -1,3 +1,19 @@
 body{
-  background-color:red;
+  background-color: navajowhite;
+}
+
+.board{
+  display: grid;
+  grid-template-columns: repeat(8,50px);
+  grid-template-rows: repeat(8,50px);
+  border: 2px solid black;
+}
+
+.cell
+.white{
+  background-color: white;
+}
+
+.black{
+  background-color: black;
 }
