@@ -3,15 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>XPCLIENT V2 - Лучший клиент для комфортной игры</title>
+    <title> VenusClient - Лучший клиент для комфортной игры</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=<?php echo time();?>">
+    <link rel="icon" href="icon.jfif" type = "image/jpeg">
+    <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;700;900&display=swap" rel="stylesheet">
 
 </head>
 <body>
     <nav class="navbar">
         <div class="nav-container">
-            <a href="#" class="navbar-brand">XPCLIENT V2</a>
+            <a href="#" class="navbar-brand">VenusClient </a>
             <div class="nav-links">
                 <a href="#support" target="_blank"><i class="fas fa-headset"></i> Поддержка</a>
                 <a href="#money"><i class="fas fa-money-bill"></i> Деньги за видео</a>
@@ -107,7 +109,7 @@
     <footer>
         <div class="footer-content">
             <div class="footer-section">
-                <h3>XPCLIENT V2</h3>
+                <h3>VenusClient</h3>
                 <p>Лучший клиент для комфортной игры</p>
             </div>
             <div class="footer-section">
